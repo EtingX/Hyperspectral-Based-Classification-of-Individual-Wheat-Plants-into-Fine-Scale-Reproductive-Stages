@@ -5,6 +5,8 @@ Field trials are critical in the development of genetically modified and genome-
 
 Key words: hyperspectral sensing, individual wheat phenotyping, fine-scale growth stage classification, reproductive development, data transformation
 
+The data link is https://huggingface.co/datasets/Eting0308/HSI-Based-Classification-of-Individual-Wheat-Plants-into-Fine-Scale-Reproductive-Stages
+
 Result:
 
 <img width="3600" height="2400" alt="Figure 4" src="https://github.com/user-attachments/assets/e2a7860f-c006-412c-ae77-dc4e326d5e31" />
