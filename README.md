@@ -7,10 +7,11 @@ Key words: hyperspectral sensing, individual wheat phenotyping, fine-scale growt
 
 The data link is https://huggingface.co/datasets/Eting0308/HSI-Based-Classification-of-Individual-Wheat-Plants-into-Fine-Scale-Reproductive-Stages
 
+The preprocessing code was in the Classification_HL.py
+
 Result:
 
-<img width="3600" height="2400" alt="Figure 4" src="https://github.com/user-attachments/assets/e2a7860f-c006-412c-ae77-dc4e326d5e31" />
-
+<img width="3542" height="2920" alt="Figure 4 r" src="https://github.com/user-attachments/assets/68ca6818-6edb-4cef-851f-636f906e4c6f" />
 
 Model performance on data collected under controlled environment conditions. (a) F1 scores of deep learning models trained on RGB images captured from side and top views. (b) F1 scores of classical machine learning models trained on hyperspectral reflectance data. Validation results are shown as solid grey bars, while test results are indicated by hatched bars (//). The dashed horizontal line at 0.75 marks the threshold for acceptable predictive performance.
 
